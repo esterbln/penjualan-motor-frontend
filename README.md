@@ -2,8 +2,6 @@
 
 Aplikasi web penjualan motor yang dibuat dengan **Vue 3** dan **Quasar**. Aplikasi ini adalah pasangan dari backend [`penjualan-motor-api`](https://github.com/esterbln/penjualan-motor-api): semua data (pengguna, tipe motor, motor, pembayaran) diambil dan disimpan lewat API tersebut.
 
-Proyek ini berawal dari UAS kuliah, lalu saya rapikan agar bisa dijalankan ulang oleh siapa pun.
-
 ## Fitur
 
 **Umum**
