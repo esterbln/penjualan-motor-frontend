@@ -1,5 +1,7 @@
 # Penjualan Motor (Frontend)
-[![Demo Dashboard](images/thumbnail.png)](https://youtu.be/vz8k2z3LEow)
+
+[![Demo Dashboard](images/thumbnail.png)](https://youtu.be/D-oKJhtTTLk)
+
 Aplikasi web penjualan motor yang dibuat dengan **Vue 3** dan **Quasar**. Aplikasi ini adalah pasangan dari backend [`penjualan-motor-api`](https://github.com/esterbln/penjualan-motor-api): semua data (pengguna, tipe motor, motor, pembayaran) diambil dan disimpan lewat API tersebut.
 
 ## Fitur
